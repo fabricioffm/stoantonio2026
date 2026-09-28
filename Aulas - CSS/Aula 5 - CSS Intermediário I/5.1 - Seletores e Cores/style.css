@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(236, 17, 207);
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: rgb(245, 10, 10)
+}
+
+.bbb {
+    color: rgb(16, 240, 34);
+}
+
+#IDK {
+    background-color: #123412;
+}
